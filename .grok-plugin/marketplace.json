@@ -574,7 +574,7 @@
     },
     {
       "name": "hive",
-      "description": "DM automation for Instagram, Messenger, WhatsApp and TikTok, plus publishing, scheduling, link in bio and analytics across your own connected social accounts. Talks to the hosted Hive MCP server over OAuth; anything that reaches real people waits for a human to approve it in Hive.",
+      "description": "DM automation for Instagram, Messenger, WhatsApp and TikTok: answer comments and story replies, then carry the conversation on into DMs. Also drafts, schedules and publishes posts across connected accounts, and reads back inbox, campaign results and analytics. Everything happens inside the person's own Hive workspace, and anything that reaches real people waits for a human to approve it in Hive first.",
       "category": "productivity",
       "source": {
         "source": "url",
